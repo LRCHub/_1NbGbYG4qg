@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Story of Us",
+  "base_artist": "milet",
+  "createdAt": "2026-02-09T09:55:39.274722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_The_Story_of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Story Of Us (Taylor's Version)",
+      "artist": "TaylorSwiftVEVO",
+      "has_synced": true,
+      "path": "select/02_The_Story_Of_Us_(Taylor's_Version)_TaylorSwiftVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "HYNN",
+      "has_synced": true,
+      "path": "select/03_The_Story_of_Us_HYNN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Unroyal",
+      "has_synced": true,
+      "path": "select/04_The_Story_of_Us_Unroyal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/05_The_Story_of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Story Of Us",
+      "artist": "Nytrix",
+      "has_synced": true,
+      "path": "select/06_The_Story_Of_Us_Nytrix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_The_Story_of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_The_Story_of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Story Of Us",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/09_The_Story_Of_Us_Taylor_Swift.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/10_The_Story_of_Us_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Story Of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_The_Story_Of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Story Of Us (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_The_Story_Of_Us_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Story Of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_The_Story_Of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Story of Us",
+      "artist": "Kidz Bop",
+      "has_synced": true,
+      "path": "select/14_The_Story_of_Us_Kidz_Bop.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "07 The Story Of Us",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/15_07_The_Story_Of_Us_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Story Of Us",
+      "artist": "Arcando",
+      "has_synced": true,
+      "path": "select/16_The_Story_Of_Us_Arcando.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Story of Us",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_The_Story_of_Us_milet.txt"
+    }
+  ]
+}
